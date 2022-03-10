@@ -4,7 +4,7 @@
 
 - Student at the Informatic Engineering School of Rennes : ESIR • 2021-2024
 - ESIR • INTENSIVE PREPARATION COURSE • 2019 - 2021
-- CERTIFICATE OF SECONDARY EDUCATION (BAC) • 2019
+- CERTIFICATE OF SECONDARY EDUCATION (BAC) • 2019 \
       With European distinction and honors (Mention Bien)
 
 ### WORK
