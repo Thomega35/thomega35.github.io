@@ -1,31 +1,31 @@
 ## Thomas Delapart
 
-### Markdown
+### EDUCATION
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-Student at the Informatic Engineering School of Rennes : ESIR • 2021-2024
+-ESIR • INTENSIVE PREPARATION COURSE • 2019 - 2021
+-CERTIFICATE OF SECONDARY EDUCATION (BAC) • 2019
+With European distinction and honors (Mention Bien)
 
-Syntax highlighted code block
+### WORK
 
-# Header 1
-## Header 2
-### Header 3
+Looking for an internship of a least one month.
+Available during June, July and August.
+Want to develop
 
-- Bulleted
-- List
+### SOFTWARE SKILLS
+- Java
+- Javascript
+- Python
+- Scala
+- Git / Github
 
-1. Numbered
-2. List
+### HOBBIES
+-MUSIC
+Playing the Trombone in some bands
 
-**Bold** and _Italic_ and `Code` text
+-ANIMATION
+Animator in summer camps - 2 times
 
-[Link](url) and ![Image](src)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Thomega35/thomega35.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-SPORT
+Rugby, Volley and bike 
