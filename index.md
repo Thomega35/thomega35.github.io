@@ -14,16 +14,16 @@
 
 ### WORK
 
-Looking for an internship of a least one month. \
-Available during June, July and August. \
-Seeking for an intership in devloppment or cybersecurity
+Looking for an internship of at least one month. \
+Available during June, July, and August. \
+Seeking for an internship in development or cybersecurity
 
 ### SOFTWARE SKILLS
 - Java
-- Javascript
+- JavaScript
 - Python
 - Scala
-- Git / Github
+- Git / GitHub
 
 ### HOBBIES
 - MUSIC \
@@ -36,5 +36,5 @@ treasurer at ISATI BDE this year
 - SPORT \
 Rugby, Volley and bike 
 
-- PROGRAMATION \
-Like to create game 
+- PROGRAMMING \
+Like to create game and programs to solve problems
