@@ -2,10 +2,10 @@
 
 ### EDUCATION
 
--Student at the Informatic Engineering School of Rennes : ESIR • 2021-2024
--ESIR • INTENSIVE PREPARATION COURSE • 2019 - 2021
--CERTIFICATE OF SECONDARY EDUCATION (BAC) • 2019
-With European distinction and honors (Mention Bien)
+- Student at the Informatic Engineering School of Rennes : ESIR • 2021-2024
+- ESIR • INTENSIVE PREPARATION COURSE • 2019 - 2021
+- CERTIFICATE OF SECONDARY EDUCATION (BAC) • 2019
+      With European distinction and honors (Mention Bien)
 
 ### WORK
 
@@ -21,11 +21,11 @@ Want to develop
 - Git / Github
 
 ### HOBBIES
--MUSIC
+- MUSIC
 Playing the Trombone in some bands
 
--ANIMATION
+- ANIMATION
 Animator in summer camps - 2 times
 
--SPORT
+- SPORT
 Rugby, Volley and bike 
